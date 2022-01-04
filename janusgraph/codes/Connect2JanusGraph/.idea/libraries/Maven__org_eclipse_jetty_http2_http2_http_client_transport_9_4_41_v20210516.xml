@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.jetty.http2:http2-http-client-transport:9.4.41.v20210516">
+    <CLASSES>
+      <root url="jar://D:/MavenSoft/apache-maven-3.3.9/respository/org/eclipse/jetty/http2/http2-http-client-transport/9.4.41.v20210516/http2-http-client-transport-9.4.41.v20210516.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/MavenSoft/apache-maven-3.3.9/respository/org/eclipse/jetty/http2/http2-http-client-transport/9.4.41.v20210516/http2-http-client-transport-9.4.41.v20210516-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/MavenSoft/apache-maven-3.3.9/respository/org/eclipse/jetty/http2/http2-http-client-transport/9.4.41.v20210516/http2-http-client-transport-9.4.41.v20210516-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

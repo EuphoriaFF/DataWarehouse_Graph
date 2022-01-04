@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.tinkerpop:gremlin-groovy:3.5.1">
+    <CLASSES>
+      <root url="jar://D:/MavenSoft/apache-maven-3.3.9/respository/org/apache/tinkerpop/gremlin-groovy/3.5.1/gremlin-groovy-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/MavenSoft/apache-maven-3.3.9/respository/org/apache/tinkerpop/gremlin-groovy/3.5.1/gremlin-groovy-3.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/MavenSoft/apache-maven-3.3.9/respository/org/apache/tinkerpop/gremlin-groovy/3.5.1/gremlin-groovy-3.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hbase:hbase-shaded-client:2.2.7">
+    <CLASSES>
+      <root url="jar://D:/MavenSoft/apache-maven-3.3.9/respository/org/apache/hbase/hbase-shaded-client/2.2.7/hbase-shaded-client-2.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/MavenSoft/apache-maven-3.3.9/respository/org/apache/hbase/hbase-shaded-client/2.2.7/hbase-shaded-client-2.2.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/MavenSoft/apache-maven-3.3.9/respository/org/apache/hbase/hbase-shaded-client/2.2.7/hbase-shaded-client-2.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

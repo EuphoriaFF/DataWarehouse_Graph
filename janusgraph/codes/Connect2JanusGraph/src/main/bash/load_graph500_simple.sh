@@ -1,0 +1,1 @@
+java -jar Load_graph500_simple /ebs/raw/graph500-22/graph500-22 /opt/module/janusgraph-0.6.0/conf/myconf/graph500-simple.properties /opt/module/janusgraph-0.6.0/code/result/RunTimeGraph500_simple.txt

@@ -1,0 +1,1 @@
+java -jar knn_graph500.jar /opt/module/janusgraph-0.6.0/conf/myconf/graph500-janusgraph6.properties /ebs/benchmark/code/janusgraph/graph500-22-seed 1 100 /opt/module/janusgraph-0.6.0/code/result/ next_count

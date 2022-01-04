@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.tinkerpop:gremlin-shaded:3.6.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tinkerpop/gremlin-shaded/3.6.0-SNAPSHOT/gremlin-shaded-3.6.0-20211118.223026-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tinkerpop/gremlin-shaded/3.6.0-SNAPSHOT/gremlin-shaded-3.6.0-20211118.223026-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tinkerpop/gremlin-shaded/3.6.0-SNAPSHOT/gremlin-shaded-3.6.0-20211118.223026-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
