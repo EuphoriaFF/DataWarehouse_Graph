@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@hadoop85">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.23">
+    <root id="1">
+      <ServerVersion>5.1.0</ServerVersion>
+      <DefaultEngine>olap</DefaultEngine>
+      <DefaultTmpEngine>olap</DefaultTmpEngine>
+      <DefaultCasing>exact</DefaultCasing>
+    </root>
+    <schema id="2" parent="1" name="graph500">
+      <Current>1</Current>
+      <Collation>utf8_general_ci&#x0;</Collation>
+    </schema>
+    <schema id="3" parent="1" name="information_schema">
+      <Collation>utf8_general_ci&#x0;</Collation>
+    </schema>
+  </database-model>
+</dataSource>
